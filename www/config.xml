@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.projecte_info_4t"
+        id          = "cat.numancia.sistemasolar_"
         versionCode = "21" 
         version     = "1.0.21" >
 	
@@ -10,7 +10,7 @@
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>Projecte 4t INFO 2015 2016</name>
+    <name>Sistema Solar</name>
 
    <description>
        Aplicació phonegap del salumnes de 4t info Curs 2015 2016
